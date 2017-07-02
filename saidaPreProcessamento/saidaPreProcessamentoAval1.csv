@@ -1,0 +1,26 @@
+;Nome do Hotel;Localizacao;Quartos;Servico;Limpeza;Custo-Benefício;Conforto;Facilidades;Prédio;Café da Manhã;Comida
+0;Radisson Recife;92.0;84.0;79;85;78.0;85;83.0;80.0;;76.0
+1;Golden Tulip Recife Boa Viagem;89.0;80.0;84;81;76.0;81;80.0;75.0;;77.0
+2;Mar Hotel Conventions;86.0;82.0;79;84;77.0;83;83.0;79.0;70.0;75.0
+3;Best Western Hotel Manibu Recife;84.0;77.0;82;86;77.0;82;82.0;82.0;75.0;75.0
+4;Transamérica Prestige Beach Class International;89.0;84.0;88;88;79.0;89;85.0;85.0;;
+5;Beach Class Conselheiro By Nobile;;;83;87;;83;;81.0;;
+6;Hotel Atlante Plaza;91.0;81.0;84;85;77.0;84;81.0;78.0;78.0;76.0
+7;Nobile Beach Class Executive;88.0;83.0;84;87;79.0;86;84.0;81.0;72.0;80.0
+8;Hotel Duble;84.0;72.0;78;77;75.0;72;78.0;70.0;;78.0
+9;Parkhotel;89.0;76.0;75;81;75.0;77;79.0;72.0;78.0;80.0
+10;Bristol Recife Suites & Convention;82.0;85.0;82;88;82.0;87;82.0;85.0;;76.0
+11;Internacional Palace;89.0;74.0;81;79;74.0;78;76.0;77.0;74.0;76.0
+12;Bianca Praia;87.0;76.0;85;82;81.0;78;77.0;;;
+13;Recife Monte;82.0;62.0;70;66;67.0;64;64.0;62.0;77.0;74.0
+14;Recife Praia;85.0;75.0;81;79;75.0;75;75.0;72.0;76.0;80.0
+15;Jangadeiro;89.0;76.0;78;74;73.0;73;71.0;75.0;;
+16;Canariu's Palace;84.0;67.0;76;73;70.0;71;72.0;71.0;76.0;
+17;Courtyard Recife Boa Viagem;85.0;85.0;87;90;82.0;89;85.0;88.0;;77.0
+18;Vila Rica Hotel;89.0;76.0;81;84;76.0;76;79.0;75.0;;76.0
+19;Enseada da Boa Viagem;84.0;78.0;81;83;80.0;78;78.0;81.0;74.0;
+20;Boa Viagem Praia;85.0;68.0;71;70;69.0;65;66.0;63.0;75.0;76.0
+21;Onda Mar;87.0;73.0;78;77;76.0;74;75.0;78.0;76.0;79.0
+22;Mercure Recife Navegantes;85.0;75.0;72;81;73.0;79;79.0;74.0;79.0;79.0
+23; Recife Flat service;82.0;75.0;79;78;78.0;79;75.0;75.0;72.0;
+24;Aconchego Recife;86.0;69.0;81;76;77.0;73;73.0;74.0;;
